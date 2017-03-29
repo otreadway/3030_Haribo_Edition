@@ -58,7 +58,7 @@ S3D base settings
 |22|ollietwist|Silver/Orange||||
 |23|Jb3872|Black/Burgundy||||
 |24|unkle_rukus|Black/Neon Green||||
-|25||||||
+|25|olliet|||||
 |26||||||
 |27||||||
 |28||||||
